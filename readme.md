@@ -1,3 +1,7 @@
+0、请下载该链接中的压缩包，并直接解压到根目录中；     
+链接：https://pan.baidu.com/s/1k52bHXaPO-pCl-3cDwLm7A     
+提取码：6666     
+复制这段内容后打开百度网盘手机App，操作更方便哦--来自百度网盘超级会员V8的分享
 1、本项目使用的数据集可以通过以下链接获取，将数据解压后存入/VOCdevkit/VOC2007/JPEGImages文件夹中；
 链接：https://pan.baidu.com/s/1xs36evyAQ83pTFlnITSpWg 
 提取码：6666    
