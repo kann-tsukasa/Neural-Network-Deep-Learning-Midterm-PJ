@@ -1,0 +1,12 @@
+1、本项目使用的数据集可以通过以下链接获取，将数据解压后存入/VOCdevkit/VOC2007/JPEGImages文件夹中；
+链接：https://pan.baidu.com/s/1xs36evyAQ83pTFlnITSpWg 
+提取码：6666 
+2、模型参数需要在主目录的yolo.py中进行修改；
+3、训练模型时如需读取预训练模型，则要对train.py文件中134-142行的代码进行修改；
+4、模型训练完成后会存储在主目录的log文件夹下；
+5、模型预测需要运行get_dr_txt.py文件以获取预测结果；
+6、在完成步骤5后可以运行get_map.py以计算模型在测试集上的mAP；
+7、实现单张图片的预测可以通过predict.py文件实现。
+8、本文中涉及的三个模型的下载链接如下，在测试时导入训练好的模型需要修改yolo.py中的模型路径。
+链接：https://pan.baidu.com/s/1L4BiHRcwa_m0i8GoAO1VpQ 
+提取码：6666 
